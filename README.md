@@ -1,0 +1,3 @@
+Download Link: https://assignmentchef.com/product/solved-solved-jm-sales-employs-five-salespeople
+<br>
+JM Sales employs five salespeople. The sales manager wants an application that allows him to enter any number of sales amounts for each of the five salespeople. The application should accumulate the sales amount in a one-dimensional array. The application should also display a report similar to the one shown in following figure. The report contains each sales person’s ID and total sales. It also contains the total company sales.
